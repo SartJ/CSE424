@@ -1,24 +1,24 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/aFOW7SfqcXc
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/SartJ/CSE424/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
-https://draw.io/...
+https://github.com/SartJ/CSE424/blob/main/submission3/Concept%20Map.drawio
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
-Jurafsky
+Dan Jurafsky and James H. Martin
 3rd edition
 2014
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/23.pdf
 
 Group Number:
 1
