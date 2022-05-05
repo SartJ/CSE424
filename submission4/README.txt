@@ -1,5 +1,5 @@
 Unlisted youtube video:
-
+https://youtu.be/PZfocZ2bJ9o
 
 Conference submitted paper / paper submission / login Link:
 
@@ -7,11 +7,11 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 A Lightweight CNN based Approach to Bangladeshi Paper Currency Recognition
 
-First Draft:
-https://www.overleaf.com/7291282892kmwdcfbwmshm
+Draft:
+https://www.overleaf.com/read/sxztrxqvbwgy
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1XBqc2NgFuwQlPbMNqjqxECNJngDl6SjLyh0ecFvXdhc/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
